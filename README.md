@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunidhik145
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Web Development, and Networking
-- 🌱 I’m currently learning DSA, Python (Advanced), and Full-Stack Development
+- 🌱 I’m currently learning DSA, Python, and Full-Stack Development
 - 💞️ I’m looking to collaborate on AI/ML projects, Chatbots, and Open Source contributions
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunidhi-kashyap-109a94291) | [Gmail](sunidhikashyapkashyap@gmail.com)
 - 😄 Pronouns: She/Her
